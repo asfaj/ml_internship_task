@@ -44,7 +44,8 @@ The goal is to build practical skills in data analysis, machine learning, and AI
 
 ### Task 4: General Health Query Chatbot
 - **Objective:** Build a chatbot answering general health questions.
-- **Tools:** OpenAI GPT-3.5 API / Mistral-7B-Instruct
+- **Tools:**  google/flan-t5-small
+
 - **Approach:** 
   - Python script to send queries to LLM
   - Prompt engineering for clear, friendly responses

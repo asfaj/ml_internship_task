@@ -55,19 +55,8 @@ The goal is to build practical skills in data analysis, machine learning, and AI
 
 ---
 
-### Task 5: Mental Health Support Chatbot
-- **Objective:** Build a chatbot providing supportive responses for stress and anxiety.
-- **Model Base:** DistilGPT2, GPT-Neo, or Mistral-7B
-- **Dataset:** EmpatheticDialogues (Facebook AI)
-- **Approach:** 
-  - Fine-tuned model using Hugging Face Trainer API
-  - Ensured gentle, empathetic tone
-  - Built CLI / Streamlit interface for testing
-- **Skills Gained:** Model fine-tuning, emotional tone design, conversation modeling, deployment
 
----
-
-### Task 6: House Price Prediction
+### Task 5: House Price Prediction
 - **Objective:** Predict house prices using property features.
 - **Dataset:** House Price Dataset (Kaggle)
 - **Approach:** 
